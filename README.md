@@ -1,2 +1,3 @@
 # hello_world
 This is my first and hopefully not the last repository here!! Game on...
+my name is Vasily and i'm so happy to finnaly get into coding! That is one of mine lifelong dreams. The other one is learn everything about 3D printing!
